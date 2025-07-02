@@ -26,13 +26,6 @@ A full-stack web application built with **MongoDB, Express, React, and Node.js**
 
 ---
 
-## 📁 Project Structure
-StudentFeedbackTracker/
-├── frontend/ # React frontend
-│ ├── src/components/FeedbackForm.js
-│ ├── src/App.js
-│ └── ...
-├── backend/ # Node/Express backend
-│ ├── server.js
-│ └── .env
+## backend acts as server
+## frontend acts as client
 
